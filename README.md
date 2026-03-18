@@ -37,7 +37,22 @@ User → API Gateway → Microservices → Database → AI Service
 - Database: PostgreSQL
 - Cache: Redis
 - Deployment: Docker
+## Execution Plan
 
+### Phase 1: MVP (0–3 months)
+- Basic chatbot
+- Ticket creation system
+- Simple dashboard
+
+### Phase 2: Scale (3–6 months)
+- Kafka integration
+- Redis caching
+- Multi-region deployment
+
+### Phase 3: Optimization (6–9 months)
+- AI model improvements
+- Performance tuning
+- Observability (monitoring + alerts)
 ## Disclaimer
 This is a personal project created for learning purposes. 
 It is not related to any employer or client work.
